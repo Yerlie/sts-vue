@@ -28,6 +28,7 @@
 </template>
 
 <script>
+import lzString from 'lz-string';
 export default {
   name: "Home",
   data() {
@@ -38,9 +39,11 @@ export default {
   async mounted() {
     let result = await (
       await fetch("https://us-central1-jobwus-5f24c.cloudfunctions.net/getData")
-    ).json();
+    ).text();
     setTimeout(() => {
       this.result = result;
+     let uncompress = lzString.decompressFromBase64(result);
+      this.result = JSON.parse(uncompress);
     }, 1000);
   },
 };
