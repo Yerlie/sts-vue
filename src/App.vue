@@ -19,7 +19,7 @@
               <small style="font-size: 16px; vertical-align: top">BETA</small>
             </h1>
             <tittle style="font-size: 1.2em; font-weight: bolder"
-              >Bolsa de Empleo.</tittle
+              >Buscador de Empleo.</tittle
             >
             <br />
             <span style="bottom: -5px; position: relative">
@@ -39,7 +39,7 @@
                 target="_blank"
                 href="https://www.instagram.com/sintrabajosocial/"
                 ><img
-                  alt="Pagina de Integram"
+                  alt="Pagina de Intsgram"
                   title="Pagina de Instagram"
                   src="/img/instagram.png?expires=895864541"
               /></a>
