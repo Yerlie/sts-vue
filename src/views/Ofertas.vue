@@ -23,7 +23,7 @@
     </div>
   </div>
   <div v-else style="text-align: center">
-    <img src="img/loading.gif" alt="" />
+    <img src="img/loading.gif" alt="carga de SinTrabajoSocial" />
   </div>
 </template>
 

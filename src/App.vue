@@ -9,6 +9,8 @@
               width: 180px;
               background-color: red;
               background: url(/img/logo.png) center center no-repeat;
+              title: 'logo SinTrabajoSocial';
+              alt: 'logo SinTrabajoSocial';
               width: 180px;
               height: 90px;
             "
@@ -25,22 +27,22 @@
             <span style="bottom: -5px; position: relative">
               <a target="_blank" href="https://facebook.com/sintrabajosocial"
                 ><img
-                  alt="Pagina de Facebook"
-                  title="Pagina de Facebook"
+                  alt=" Facebook SinTrabajoSocial"
+                  title="Facebook SinTrabajoSocial"
                   src="/img/face.png?expires=895784545" /></a
               >&nbsp;
               <a target="_blank" href="https://twitter.com/sintrabsocial"
                 ><img
-                  alt="Pagina de Twitter"
-                  title="Pagina de Twitter"
+                  alt="Twitter SinTrabajoSocial"
+                  title="Twitter SinTrabajoSocial"
                   src="/img/twitter.png?expires=895786455" /></a
               >&nbsp;
               <a
                 target="_blank"
                 href="https://www.instagram.com/sintrabajosocial/"
                 ><img
-                  alt="Pagina de Intsgram"
-                  title="Pagina de Instagram"
+                  alt="Instagram SinTrabajoSocial"
+                  title="Instagram SinTrabajoSocial"
                   src="/img/instagram.png?expires=895864541"
               /></a>
             </span>
